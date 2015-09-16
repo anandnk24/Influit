@@ -1,0 +1,23 @@
+.posts{
+	margin: 0;
+	padding-left: 50px;
+	margin-right: 50px;
+    padding-top: 15px;
+    font-size: 20;
+    font-weight: 500;
+    font-family: "Helvetica", serif;
+}
+
+.title{
+	text-align: center;
+}
+
+.form{
+	margin:0;
+	margin-left: 50px;
+}
+
+.comment{
+	padding-left: 40px;
+	font-weight: 200;
+}
