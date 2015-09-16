@@ -23,12 +23,12 @@ Below is the user interface for each individual post:
 
 
 Future functionalities to be added:
-Collaboration functionality: microblogging, social feed building, activity stream
-IM Functionality: sending personal messages to other users
-Integration: among all social media platforms (Quora post can be posted on Influit)
-Social task management solutions: calendar, reminders, goals, deadlines, etc.
-Shareoholic API: tracks social media metrics and displays on dashboard - live display
-Story platform: read or write on any device
+Collaboration functionality: microblogging, social feed building, activity stream;
+IM Functionality: sending personal messages to other users;
+Integration: among all social media platforms (Quora post can be posted on Influit);
+Social task management solutions: calendar, reminders, goals, deadlines, etc.;
+Shareoholic API: tracks social media metrics and displays on dashboard - live display;
+Story platform: read or write on any device.
 
 The Bottom Line: 1) Influit captures the growing influencer community; 2) All parties can increase revenue; 3) Connections matter.
 
